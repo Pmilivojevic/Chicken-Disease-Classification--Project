@@ -11,9 +11,10 @@ list_of_files = [
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "reuqirements.txt",
+    "requirements.txt",
     "setup.py",
     "research/trials.ipnb",
+    "templates/index.html"
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
